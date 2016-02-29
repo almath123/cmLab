@@ -34,4 +34,5 @@ Resources
 --------------------
 
 Supplemental can be found here: <a href="http://users.cecs.anu.edu.au/~u4534172/papers/senticap_suppliment.pdf">pdf</a><br>
-The list of Adjective Noun Pairs (ANPs) can be found here: <a href="http://users.cecs.anu.edu.au/~u4534172/data/Senticap/anp_list.txt">txt</a>
+The list of Adjective Noun Pairs (ANPs) can be found here: <a href="http://users.cecs.anu.edu.au/~u4534172/data/Senticap/anp_list.txt">txt</a><br>
+The sentiment dataset is here: <a href="http://users.cecs.anu.edu.au/~u4534172/data/Senticap/senticap_dataset.zip">zip</a> (483kB)
